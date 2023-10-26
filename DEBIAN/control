@@ -1,0 +1,10 @@
+Package: nut
+Architecture: amd64
+Maintainer: hhool <[hhool@outlook.com]>
+Section: metapackages
+Description: network UPS tools - metapackage
+ Network UPS Tools (NUT) is a client/server monitoring system that
+ allows computers to share uninterruptible power supply (UPS) and
+ power distribution unit (PDU) hardware. Clients access the hardware
+ through the server, and are notified whenever the power status changes.
+Version: 2.8.0-signed
