@@ -1,5 +1,5 @@
 Package: nut
-Architecture: amd64
+Architecture: arm64
 Maintainer: hhool <[hhool@outlook.com]>
 Section: metapackages
 Description: network UPS tools - metapackage
